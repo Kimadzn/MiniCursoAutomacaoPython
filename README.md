@@ -28,4 +28,4 @@ Para executar este código, é necessário ter instalado:
 Este projeto é aberto a contribuições. Sinta-se à vontade para enviar sugestões, correções ou melhorias através de pull requests.
 
 ## Contato
-Se tiver alguma dúvida ou precisar de ajuda com este código, entre em contato pelo email [seu-email@aqui.com](mailto:kimadzn@gmail.com).
+Se tiver alguma dúvida ou precisar de ajuda com este código, entre em contato pelo email [kimadzn@gmail.com](mailto:kimadzn@gmail.com).
